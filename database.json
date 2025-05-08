@@ -12,15 +12,5 @@
             "nombre": "Generico",
             "id": 2
         }
-    ],
-    "envios": [
-        {
-            "id": 1,
-            "usuarioId": 1,
-            "fecha_envio": "25-04-2023",
-            "origen": "Medellin",
-            "destino": "Bogota",
-            "estado": "en Tansito"
-        }
     ]
 }
